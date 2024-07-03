@@ -8,7 +8,7 @@ Formação: USJT
 
 Atualmente sou funcionário da Sell Administradora , como Contador
 
-Sou Desenvolvedor de Programas
+Sou Desenvolvedor Front-end
 
 
 <!--

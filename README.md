@@ -2,13 +2,14 @@
 
 Tenho 39 anos 
 
-Sou Aluno de Analise Desenvolvimento de Sistema pela USJT 
+Sou Analista Desenvolvimento de Sistema 
+
+Formação: USJT 
 
 Atualmente sou funcionário da Sell Administradora , como Contador
 
-Sou um Aprediz de programação, futuro DEV
+Sou Desenvolvedor de Programas
 
-Aluno do Curso e video do Gustavo Guanabara, atualmente aprendendo HTML-CSS
 
 <!--
 **Mohandasl23/Mohandasl23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

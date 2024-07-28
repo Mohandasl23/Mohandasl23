@@ -6,8 +6,7 @@ Sou Analista Desenvolvimento de Sistema
 
 Formação: USJT 
 
-Atualmente sou funcionário da Sell Administradora , como Contador
-
+Atualmente sou funcionário da Sell Administradora
 Sou Desenvolvedor Front-end
 
 

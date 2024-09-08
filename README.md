@@ -9,6 +9,14 @@ Formação: USJT
 Trabalho: Sell Administradora de Condominios
 
 Sou Desenvolvedor Front-end
+## 🔎​ Stats :
+
+<br>
+
+<div>
+<img aling='left' height='190em' src='https://github-readme-stats.vercel.app/api?username=Mohandasl23&show_icons=true&theme=github_dark&hide_border=true&title_color=fff&icon_color=fff'/>
+<img aling='right' height='190em' src='https://github-readme-stats.vercel.app/api/top-langs/?username=Mohandasl23&layout=compact&theme=github_dark&hide_border=true&title_color=fff'/>
+</div>
 
 
 ## 💻 Tecnologias que uso no meu dia:

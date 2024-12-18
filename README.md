@@ -5,6 +5,7 @@ Tenho 39 anos
 Sou Analista Desenvolvimento de Sistema
 
 Formação: USJT
+Formação: DEVCLUB
 
 Trabalho: Sell Administradora de Condominios
 

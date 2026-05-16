@@ -1,13 +1,12 @@
 ## Olá! Eu sou o Mohandas Leandro 🖐️
 
-Analista de Desenvolvimento de Sistemas e Desenvolvedor Front-end, focado na construção de aplicações web e mobile modernas utilizando o ecossistema Javascript/TypeScript (React, React Native, Node.js). 
+Profissional com sólida experiência na área de **Contabilidade** na *Sell Administradora*, atualmente consolidando minha **transição de carreira** para a área de Tecnologia como **Analista de Desenvolvimento de Sistemas** e **Desenvolvedor Full Stack**.
 
-Atualmente, venho expandindo meu escopo técnico com **Python** e **Playwright** para o desenvolvimento de automações e testes robustos.
+Utilizo minha forte bagagem analítica e de processos para construir aplicações web e mobile modernas através do ecossistema JavaScript (React, React Native, Node.js), além de expandir minhas habilidades em automação com **Python** e **Playwright**.
 
 🎓 **Formação & Especialização:**
 * Graduação em Análise e Desenvolvimento de Sistemas – **USJT**
 * Especialização Full Stack – **DEVCLUB (Jornada do Dev)**
-💼 **Atuação Atual:** Analista de Desenvolvimento na **Sell Administradora de Condomínios**
 
 ---
 

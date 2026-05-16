@@ -1,12 +1,12 @@
 ## Olá! Eu sou o Mohandas Leandro 🖐️
 
-Tenho 40 anos
+Tenho 41 anos
 
 Sou Analista Desenvolvimento de Sistema
 
 Formação: USJT
 
-Formação: DEVCLUB
+Formação: DEVCLUB, Jornada do Dev
 
 Trabalho: Sell Administradora de Condominios
 
@@ -30,7 +30,8 @@ Sou Desenvolvedor Front-end
   <img align="center" alt="react" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img align="center" alt="nodejs" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
   <img align="center" alt="react-native" src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-<!-- <img align="center" alt="java" src="https://img.shields.io/badge/JAVA-007ACC?style=for-the-badge&logo=openjdk&logoColor=white" /> -->
+<img align="center" alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img align="center" alt="Playwright" src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white" />
 </div><br/>
 
 ## 🛠️ Ferramentas:

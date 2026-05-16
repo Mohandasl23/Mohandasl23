@@ -1,8 +1,13 @@
 ## Olá! Eu sou o Mohandas Leandro 🖐️
 
-Analista de Desenvolvimento de Sistemas focado em criar soluções eficientes no ecossistema **Front-end** e em automação de processos. Unindo a base acadêmica da **USJT** com a especialização prática do **DevClub (Jornada do Dev)**, busco constantemente otimizar fluxos de trabalho e entregar interfaces intuitivas.
+Analista de Desenvolvimento de Sistemas e Desenvolvedor Front-end, focado na construção de aplicações web e mobile modernas utilizando o ecossistema Javascript/TypeScript (React, React Native, Node.js). 
 
-Atualmente, atuo na **Sell Administradora de Condomínios**, aplicando tecnologia para resolver desafios de negócio reais.
+Atualmente, venho expandindo meu escopo técnico com **Python** e **Playwright** para o desenvolvimento de automações e testes robustos.
+
+🎓 **Formação & Especialização:**
+* Graduação em Análise e Desenvolvimento de Sistemas – **USJT**
+* Especialização Full Stack – **DEVCLUB (Jornada do Dev)**
+💼 **Atuação Atual:** Analista de Desenvolvimento na **Sell Administradora de Condomínios**
 
 ---
 

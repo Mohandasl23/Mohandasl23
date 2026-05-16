@@ -10,12 +10,10 @@ Utilizo minha forte bagagem analítica e de processos para construir aplicaçõe
 
 ---
 
-
 ## 🔎 Stats:
 
 <p align="center">
-  <img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api?username=Mohandasl23&show_icons=true&theme=github_dark&hide_border=true&title_color=fff&icon_color=fff" alt="Estatísticas do GitHub" height="180" />
-  <img src="https://github-readme-stats-git-master-anuraghazra.vercelapp/api/top-langs/?username=Mohandasl23&layout=compact&theme=github_dark&hide_border=true&title_color=fff" alt="Linguagens mais usadas" height="180" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mohandasl23&theme=github-dark&hide_border=true" alt="GitHub Streak Stats" />
 </p>
 
 <br>

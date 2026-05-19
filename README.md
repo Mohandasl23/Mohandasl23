@@ -6,8 +6,8 @@ Utilizo minha forte bagagem analítica e de processos para construir aplicaçõe
 
 🎓 **Formação & Especialização:**
 * Graduação em Análise e Desenvolvimento de Sistemas – **USJT**
-* Especialização Full Stack – **DEVCLUB (Jornada do Dev)**
-* (Jornada do Dev)
+* Especialização Full Stack – **DEVCLUB**
+* **(Jornada do Dev)**
 
 ---
 
